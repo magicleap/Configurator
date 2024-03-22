@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aac90a2245d6d442b637740003e7676, type: 3}
+  m_Name: SofaLayouts
+  m_EditorClassIdentifier: 
+  layouts:
+  - objectNames:
+    - Round_Cushion
+    - Sofa_Coushion_Front1
+    - Sofa_Coushion_Front2
+    - Sofa_Middle_Coushion1
+    - Sofa_Sectional_Back_Cushion_Lft1
+    - Sofa_Sectional_Back_Cushion_Rt1
+    - Sofa_Sectional_Lft
+    - Sofa_Sectional_Middle_Cusion1
+    - Sofa_Sectional_Middle_Cusion2
+    - Sofa_Sectional_Rt
+    - Sofa_Sectional_Rt_Long_Cushion1_1
+    objectPositionData:
+    - position: {x: -0.017685875, y: 0.6492874, z: 0.12568636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.2096177, y: 0.6794745, z: 0.18655981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 0.33910108, y: 0.6464324, z: -0.0838833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -0.0046539158, y: 0.67882824, z: -0.084373005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.4526585, y: 0.7168045, z: -0.0547793}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -0.36875606, y: 0.72158676, z: -0.07335101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.2879117, y: 0.41385427, z: 0.025284538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.5263498, y: 0.64569014, z: 0.30071867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.0074241, y: 0.6774874, z: -0.0951259}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -0.181, y: 0.41385427, z: 0.025284538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -0.35578454, y: 0.62388605, z: 0.21284035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: Two Seater
+  - objectNames:
+    - Sofa_Sectional_Ottaman
+    objectPositionData:
+    - position: {x: 1.108799, y: 0.24495071, z: 1.19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: OttomanCloseRight
+  - objectNames:
+    - Sofa_Sectional_Ottaman
+    objectPositionData:
+    - position: {x: 0.026, y: 0.24495071, z: 1.19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: OttomanCloseMiddle
+  - objectNames:
+    - Sofa_Sectional_Ottaman
+    objectPositionData:
+    - position: {x: -1.1, y: 0.24495071, z: 1.19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: OttomanCloseLeft
+  - objectNames:
+    - Sofa_Sectional_Ottaman
+    objectPositionData:
+    - position: {x: -1.1, y: 0.24495071, z: 1.55}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: OttomanFarLeft
+  - objectNames:
+    - Sofa_Sectional_Ottaman
+    objectPositionData:
+    - position: {x: 0.035, y: 0.24495071, z: 1.55}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: OttomanFarMiddle
+  - objectNames:
+    - Sofa_Sectional_Ottaman
+    objectPositionData:
+    - position: {x: 1.109, y: 0.24495071, z: 1.55}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: OttomanFarRight
+  - objectNames:
+    - Round_Cushion
+    - Sofa_Coushion_Front1
+    - Sofa_Coushion_Front2
+    - Sofa_Middle_Coushion1
+    - Sofa_Sectional_Back_Cushion_Lft1
+    - Sofa_Sectional_Back_Cushion_Rt1
+    - Sofa_Sectional_Center_Long_Cusion1
+    - Sofa_Sectional_Lft
+    - Sofa_Sectional_Middle
+    - Sofa_Sectional_Middle_Cusion1
+    - Sofa_Sectional_Middle_Cusion2
+    - Sofa_Sectional_Rt
+    - Sofa_Sectional_Rt_Long_Cushion1_1
+    objectPositionData:
+    - position: {x: -1.1196859, y: 0.6492874, z: 0.12568636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.2096177, y: 0.6794745, z: 0.18655981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -0.7628989, y: 0.6464324, z: -0.0838833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -1.1066539, y: 0.67882824, z: -0.084373005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.4526585, y: 0.7168045, z: -0.0547793}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -1.470756, y: 0.72158676, z: -0.07335101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 0.028212927, y: 0.6431493, z: -0.12506892}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.2879117, y: 0.41385427, z: 0.025284538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -0.0025638961, y: 0.41385427, z: 0.026790867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.5263498, y: 0.64569014, z: 0.30071867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: 1.0074241, y: 0.6774874, z: -0.0951259}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -1.283, y: 0.41385427, z: 0.025284538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - position: {x: -1.4577845, y: 0.62388605, z: 0.21284035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+    Name: Default

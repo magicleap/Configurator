@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aac90a2245d6d442b637740003e7676, type: 3}
+  m_Name: MLSofaLayouts
+  m_EditorClassIdentifier: 
+  layouts:
+  - objectNames:
+    - ML_Sofa_Ottoman
+    objectPositionData:
+    - position: {x: 0.88, y: 0, z: 1.236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: OttomanCloseRight
+  - objectNames:
+    - ML_Sofa_Ottoman
+    objectPositionData:
+    - position: {x: -0.28999996, y: 0, z: 1.236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: OttomanCloseMiddle
+  - objectNames:
+    - ML_Sofa_Ottoman
+    objectPositionData:
+    - position: {x: -1.4799999, y: 0, z: 1.236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: OttomanCloseLeft
+  - objectNames:
+    - ML_Sofa_Ottoman
+    objectPositionData:
+    - position: {x: -1.4799999, y: 0, z: 1.6159999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: OttomanFarLeft
+  - objectNames:
+    - ML_Sofa_Ottoman
+    objectPositionData:
+    - position: {x: -0.29999995, y: 0, z: 1.6159999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: OttomanFarMiddle
+  - objectNames:
+    - ML_Sofa_Ottoman
+    objectPositionData:
+    - position: {x: 0.89, y: 0, z: 1.6159999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: OttomanFarRight
+  - objectNames:
+    - ML_Sofa_Coushion_2
+    - ML_Sofa_Coushion_1
+    - Center Pillow
+    - ML_Sofa_Coushion_4
+    - ML_Sofa_Coushion_5
+    - ML_Sofa_Coushion_6
+    - ML_Sofa_Single_Middle_Container
+    - ML_Sofa_Single_Middle
+    - ML_Sofa_Single_Middle2
+    - ML_Sofa_Single_Right_Container
+    - ML_Sofa_Rt_Back_Cushion
+    - ML_Sofa_Rt_Side_Cushion
+    - ML_Sofa_Single_Right
+    - ML_Sofa_Single_Left_Container
+    - ML_Sofa_Lft_Back_Cushion
+    - ML_Sofa_Lft_Side_Cushion
+    - ML_Sofa_Single_Left
+    objectPositionData:
+    - position: {x: 0.64814436, y: 0.70122653, z: -0.054421104}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 1.0964978, y: 0.7222868, z: 0.002395228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.5260891, y: 0.70563716, z: -0.063423544}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.2353399, y: 0.70122653, z: -0.0744211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.5544094, y: 0.69163716, z: 0.23795635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.6874038, y: 0.7222868, z: -0.00760477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.29, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.0008551741, y: 0.69569916, z: -0.29995334}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.5799999, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.20125137, y: 0.7019964, z: -0.29717156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.40633088, y: 0.7179115, z: 0.10259935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.98, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.19385977, y: 0.7019964, z: -0.29717156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.4139107, y: 0.7179115, z: 0.10259935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: Three Seater
+  - objectNames:
+    - ML_Sofa_Coushion_2
+    - ML_Sofa_Coushion_1
+    - Center Pillow
+    - ML_Sofa_Coushion_4
+    - ML_Sofa_Coushion_5
+    - ML_Sofa_Coushion_6
+    - ML_Sofa_Single_Middle_Container
+    - ML_Sofa_Single_Middle
+    - ML_Sofa_Single_Middle2
+    - ML_Sofa_Single_Right_Container
+    - ML_Sofa_Rt_Back_Cushion
+    - ML_Sofa_Rt_Side_Cushion
+    - ML_Sofa_Single_Right
+    - ML_Sofa_Single_Left_Container
+    - ML_Sofa_Lft_Back_Cushion
+    - ML_Sofa_Lft_Side_Cushion
+    - ML_Sofa_Single_Left
+    objectPositionData:
+    - position: {x: 0.64814436, y: 0.70122653, z: -0.054421104}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 1.0964978, y: 0.7222868, z: 0.002395228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.5260891, y: 0.70563716, z: -0.063423544}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 0
+    - position: {x: -0.085339904, y: 0.70122653, z: -0.0744211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.4044094, y: 0.69163716, z: 0.23795635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.5374038, y: 0.7222868, z: -0.00760477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.29, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 0
+    - position: {x: -0.0008551741, y: 0.69569916, z: -0.29995334}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 0
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 0
+    - position: {x: -0.42999995, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.20125137, y: 0.7019964, z: -0.29717156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.40633088, y: 0.7179115, z: 0.10259935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.98, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.19385977, y: 0.7019964, z: -0.29717156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.4139107, y: 0.7179115, z: 0.10259935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: Two Seater
+  - objectNames:
+    - ML_Sofa_Ottoman
+    - ML_Sofa_Coushion_2
+    - ML_Sofa_Coushion_1
+    - Center Pillow
+    - ML_Sofa_Coushion_4
+    - ML_Sofa_Coushion_5
+    - ML_Sofa_Coushion_6
+    - ML_Sofa_Single_Middle_Container
+    - ML_Sofa_Single_Middle
+    - ML_Sofa_Single_Middle2
+    - ML_Sofa_Single_Right_Container
+    - ML_Sofa_Rt_Back_Cushion
+    - ML_Sofa_Rt_Side_Cushion
+    - ML_Sofa_Single_Right
+    - ML_Sofa_Single_Left_Container
+    - ML_Sofa_Lft_Back_Cushion
+    - ML_Sofa_Lft_Side_Cushion
+    - ML_Sofa_Single_Left
+    objectPositionData:
+    - position: {x: 0.88, y: 0, z: 1.236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.64814436, y: 0.70122653, z: -0.054421104}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 1.0964978, y: 0.7222868, z: 0.002395228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.5260891, y: 0.70563716, z: -0.063423544}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.2353399, y: 0.70122653, z: -0.0744211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.5544094, y: 0.69163716, z: 0.23795635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.6874038, y: 0.7222868, z: -0.00760477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.29, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.0008551741, y: 0.69569916, z: -0.29995334}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -1.5799999, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.20125137, y: 0.7019964, z: -0.29717156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.40633088, y: 0.7179115, z: 0.10259935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.98, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0.19385977, y: 0.7019964, z: -0.29717156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: 0.4139107, y: 0.7179115, z: 0.10259935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    - position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      objectEnabled: 1
+    Name: Default
