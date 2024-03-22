@@ -79,7 +79,7 @@ To make a 3D asset configurable:
 - For integration into your own projects, ensure you have a UI system in place to interact with these configuration features.
 
 
-| ![alt text](Assets/Resources/ReadMeResources/MeshOutlineShowcase.gif) | ![alt text](Assets/Resources/ReadMeResources/DraggableShowcase.gif)     |
+| ![alt text](Assets/Resources/ReadMeResources/MeshOutlineShowcase.gif) | ![alt text](Assets/Resources/ReadMeResources/DraggableShowcase.gif) |
 |--------------------------------------------------------|--------------------------------------------------------|
 | ![alt text](Assets/Resources/ReadMeResources/ColorChangeShowcase.gif) | ![alt text](Assets/Resources/ReadMeResources/ApplyAllColorShowcase.gif) |
 
