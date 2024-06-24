@@ -237,6 +237,16 @@ public class Configurable : MonoBehaviour
             boundsControl.HandlesActive = boundsVisible;
         }
     }
+    
+    public void ToggleBounds(bool shouldShow)
+    {
+        boundsVisible = shouldShow;
+        BoundsControl boundsControl = GetComponent<BoundsControl>();
+        if (boundsControl != null)
+        {
+            boundsControl.HandlesActive = boundsVisible;
+        }
+    }
 
     //Children can override this to add custom reset functionality
     public virtual void Reset()

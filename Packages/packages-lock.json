@@ -22,7 +22,7 @@
       "dependencies": {}
     },
     "com.magicleap.spectator": {
-      "version": "file:com.magicleap.spectator-v1.3.3.tgz",
+      "version": "file:com.magicleap.spectator-v1.3.4.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

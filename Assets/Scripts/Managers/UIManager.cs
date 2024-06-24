@@ -132,7 +132,11 @@ public class UIManager : Singleton<UIManager>
                 //if the ray interactor is not hovering over anything, deselect the selected object
                 if (!farRayInteractor.interactablesHovered.Any())
                 {
-                    DeselectObject();
+                    if (CurrentConfigurable.CurrentSelectedObject != null)
+                    {
+                        CurrentConfigurable.ToggleBounds(false);
+                        DeselectObject();
+                    }
                 }
             }
         }

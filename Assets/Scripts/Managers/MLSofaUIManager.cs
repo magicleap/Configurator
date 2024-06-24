@@ -309,5 +309,6 @@ public class MLSofaUIManager : MonoBehaviour
 
         currentLayoutName = "Default";
         currentOttomanLayoutName = string.Empty;
+        pillowSlider.Value = 1;
     }
 }
