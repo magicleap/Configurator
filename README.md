@@ -10,7 +10,7 @@ The Configurator is a Unity-based augmented reality project tailored for **Magic
 
 ## Installing Unity
 
-1. Download and install [Unity version 2022.3.16](https://unity.com/releases/editor/archive)
+1. Download and install [Unity version 2022.3.67f2](https://unity.com/releases/editor/archive)
 2. During  the installation, select the Android Build Support module, including OpenJDK and Android SDK & NDK Tools.
 
 ![Android Platform Build Support](Assets/Resources/ReadMeResources/androidplatformsupport.PNG)
@@ -18,7 +18,7 @@ The Configurator is a Unity-based augmented reality project tailored for **Magic
 ## Getting Started
 
 1. Clone the repository or download the project files as a ZIP archive and extract the contents.
-2. Open the extracted project using Unity version 2022.3.16.
+2. Open the extracted project using Unity version 2022.3.67f2.
 3. By default, the project opens with the Main scene loaded. To test the project, click 'Play' in the Unity Editor.
 4. To deploy the project to a Magic Leap 2 device, use Unity's Build and Run feature with the device connected.
 
